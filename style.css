@@ -19,3 +19,29 @@
     margin-left: 50px;
 }
 
+#ctme{
+    text-align: right;
+    padding: 10rem 3rem 2rem 3rem;
+    width: 58%;
+    align-items: end;
+    margin: 30px 0px 100px auto;
+    
+}
+
+#lg{
+    float: left;
+    margin-right: 5000px;
+    padding: 4px;
+    position:absolute;
+    margin-left: 100px;
+}
+
+#dc{
+    text-align: right;
+    padding: 0rem 0rem 0rem 20rem;
+    width: 58%;
+    align-items: end;
+    margin: 0px 400px 0px auto;
+}
+
+
